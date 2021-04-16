@@ -1,6 +1,6 @@
 ---
 title: The Best Focus Timer for Spotify
-excerpt: No excerpt
+excerpt: If you want to focus, use this exceptionally good focus timer for spotify. It's called FocusMonkey
 hero: ./shot-AFdPalDd.png
 date: 2020-12-28
 ---
