@@ -20,6 +20,9 @@ function Index() {
         <Link to="/best-focus-timer-for-spotify/">
           The best focus timer for Spotify
         </Link>
+        <Link to="/study-timer-connected-to-spotify/">
+          Study timer connected to spotify
+        </Link>
       </div>
     </div>
   );
